@@ -25,8 +25,6 @@ type output\hello.txt
 ## Ожидаемый вывод
 
 Hello, Snakemake!
-PowerShell
-
 ## Структура проекта
 - Snakefile - основной файл workflow
 - README.md - эта инструкция
