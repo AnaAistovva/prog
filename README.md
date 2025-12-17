@@ -1,4 +1,4 @@
-# Snakemake Workflow Demo
+﻿# Snakemake Workflow Demo
 
 Простой Snakemake workflow для выполнения домашнего задания.
 
@@ -8,7 +8,6 @@
 
 git clone https://github.com/AnaAistovva/prog.git
 cd prog
-copy
 
 ### 2. Установить Snakemake
 
@@ -26,8 +25,9 @@ type output\hello.txt
 ## Ожидаемый вывод
 
 Hello, Snakemake!
+PowerShell
 
 ## Структура проекта
-- `Snakefile` - основной файл workflow
-- `README.md` - эта инструкция
-- `output/` - папка с результатами
+- Snakefile - основной файл workflow
+- README.md - эта инструкция
+- output/ - папка с результатами
