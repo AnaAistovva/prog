@@ -1,0 +1,2 @@
+# prog
+Snakemake workflow
